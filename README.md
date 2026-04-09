@@ -1,4 +1,4 @@
-# 🐍 Proyecto: Lógica y Katas de Python para Data Analytics
+# 🐍 Proyecto: Lógica y Katas de Python
 
 ### 📖 Descripción
 Este proyecto consiste en una serie de 41 ejercicios prácticos (Katas) diseñados para fortalecer los cimientos de la lógica de programación en Python. El análisis recorre desde los fundamentos básicos (variables y condicionales) hasta conceptos avanzados de Programación Orientada a Objetos (POO) y funciones modulares. El objetivo principal es desarrollar la capacidad de resolver problemas técnicos y automatizar procesos, habilidades críticas para un Analista de Datos.

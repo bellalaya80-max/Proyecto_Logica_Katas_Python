@@ -603,7 +603,7 @@ print(f"Cambio: {procesar_texto(frase, 'reemplazar', 'Python', 'SQL')}")
 print(f"Limpio: {procesar_texto(frase, 'eliminar', 'genial,')}")
 # Este ejercicio me ayudó a practicar la creación de funciones que realizan tareas específicas y cómo coordinar su uso dentro de una función principal que maneja diferentes opciones.
 # También me permitió entender mejor cómo manejar argumentos variables en funciones utilizando *args.
-# Para realizar este ejercicio, tuve que utilizar apoyo externo ya que no estaba segura de cómo manejar los argumentos variables. 
+# # Para realizar este ejercicio, tuve que utilizar apoyo externo ya que no estaba segura de cómo manejar los argumentos variables. Se logró entender el proceso de creación de funciones y su coordinación para lograr el resultado deseado.
 # ---------------------------------------------------------------------------------------------------------------------------------
 # EJERCICIO 38: Genera un programa que nos diga si es de noche, de día o tarde según la hora proporcionada por el usuario. 
 def determinar_momento_del_dia(hora):
@@ -722,3 +722,4 @@ def calcular_precio_final():
 
 calcular_precio_final() # Llamo a la función para ejecutar el programa y calcular el precio final de la compra según las condiciones establecidas
 # Este ejercicio fue realizado en conjunto con IA. Utilicé este apoyo para agilizar la implementación del programa y asegurarme de que la lógica de control de flujo y manejo de errores estuviera correctamente aplicada.
+# Se logró entender cómo utilizar condicionales para tomar decisiones basadas en la entrada del usuario y cómo manejar posibles errores de entrada utilizando excepciones, lo que es fundamental para crear programas robustos y fáciles de usar.
